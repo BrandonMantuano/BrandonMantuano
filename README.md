@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brandon Mantuano</h1>
 <h3 align="center">A current Hunter College Student minoring in Computer Science</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **PSQL*
 
 - 📫 How to reach me **brandonmantuano1@gmail.com**
 
@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonmantuano&show_icons=true&locale=en&layout=compact" alt="brandonmantuano" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brandonmantuano&show_icons=true&locale=en" alt="brandonmantuano" /></p>
+
