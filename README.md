@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brandon Mantuano</h1>
-<h3 align="center">A current Hunter College Student majoring in Computer Science</h3>
+<h3 align="center">A current Hunter College Student minoring in Computer Science</h3>
 
 - 🌱 I’m currently learning **C++**
 
